@@ -41,7 +41,7 @@ Run the Python Script:
 
 Run the Python script to simulate the data breach:
 
-python mining_ctf.py
+python DigDeeperCTF.py
 
 Analyze the Output:
 
