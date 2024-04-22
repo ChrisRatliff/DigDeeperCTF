@@ -37,11 +37,11 @@ class Hacker:
         print("Hacker: Let's see what valuable data I've stolen...")
         print("Hacker: ", self.stolen_data)
 
+        with open("output.txt", "w") as f:
+            f.write(str(self.stolen_data))
+        print("Hacker: Stolen data has been saved to output.txt")
+
         flag = self.find_flag()
-        if flag:
-            print("Hacker: Hooray! I found the flag:", flag)
-        else:
-            print("Hacker: Darn! No flag found.")
 
     def find_flag(self):
         for key, value in self.stolen_data.items():
