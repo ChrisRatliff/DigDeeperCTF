@@ -25,7 +25,7 @@ Clone the repository containing the CTF scenario code:
 
 bash
 
-git clone https://github.com/ChrisRatliff/DigDeeperCTF/tree/main
+git clone https://github.com/ChrisRatliff/DigDeeperCTF
 
 Alternatively, you can copy the Python code from the previous message and save it as mining_ctf.py.
 
