@@ -35,7 +35,7 @@ Change to the directory containing the Python script:
 
 bash
 
-cd YourRepository
+cd DigDeeperCTF
 
 Run the Python Script:
 
