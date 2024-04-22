@@ -25,8 +25,6 @@ Clone the repository containing the CTF scenario code:
 
 bash
 
-Copy code
-
 git clone https://github.com/YourUsername/YourRepository.git
 
 Alternatively, you can copy the Python code from the previous message and save it as mining_ctf.py.
@@ -37,15 +35,11 @@ Change to the directory containing the Python script:
 
 bash
 
-Copy code
-
 cd YourRepository
 
 Run the Python Script:
 
 Run the Python script to simulate the data breach:
-
-Copy code
 
 python mining_ctf.py
 
