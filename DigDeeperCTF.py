@@ -1,4 +1,3 @@
-from block import Block
 import os
 
 class MiningCompany:
