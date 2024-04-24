@@ -2,7 +2,7 @@
 Situation: You are a penetration tester who has been hired to breach the security of MineTech, a mining company out of Rolla, Missouri. After gaining access to the network, you are to find the employee file of Joe Miner, a mining engineer working for the company and submit the flag. 
 Objective:
 
-Find the flag hidden within the stolen data after breaching the mining company's security.
+Find the flag hidden within the stolen data after breaching MineTech's security.
 
 Tools Required:
 
@@ -14,7 +14,7 @@ Steps:
 
 Boot into Kali Linux:
 
-Boot your computer using the Kali Linux bootable USB or a Virtual Machine. 
+Boot your computer using a Kali Linux bootable USB or use a Virtual Machine. 
 
 Open Terminal:
 
@@ -27,8 +27,6 @@ Clone the repository containing the CTF scenario code:
 bash
 
 git clone https://github.com/ChrisRatliff/DigDeeperCTF
-
-Alternatively, you can copy the Python code from the previous message and save it as mining_ctf.py.
 
 Navigate to the Directory:
 
