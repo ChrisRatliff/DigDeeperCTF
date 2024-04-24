@@ -1,0 +1,10 @@
+Name: Richard Taylor
+Position: Foreman
+Birthday: June 18, 1986
+Employee ID: 1009
+Date Hired: October 25, 2014
+Hourly Rate: $24.00
+Social Security Number: ***-**-****
+Address: 
+606 Spruce Street
+Rolla, MO 65409

@@ -1,0 +1,40 @@
+[Company Letterhead]
+
+Employment Contract
+
+This Employment Contract ("Contract") is made and entered into on [Date], between MineTech Company ("Company") and [Employee Name] ("Employee").
+
+1. Employment Position:
+   Employee shall be employed as a [Position] at MineTech Company.
+
+2. Employment Term:
+   This Contract shall commence on [Start Date] and shall continue until terminated by either party with [Notice Period] notice.
+
+3. Salary:
+   Employee shall receive a monthly salary of [Salary Amount], payable on the [Payment Date] of each month.
+
+4. Benefits:
+   Employee shall be entitled to the following benefits:
+   - Health insurance coverage
+   - Retirement savings plan
+   - Paid vacation days
+
+5. Responsibilities:
+   Employee shall perform the duties and responsibilities of the [Position] in accordance with the Company's policies and procedures.
+
+6. Confidentiality:
+   Employee agrees to maintain the confidentiality of all proprietary information and trade secrets of the Company.
+
+7. Termination:
+   Either party may terminate this Contract with [Notice Period] written notice to the other party.
+
+8. Governing Law:
+   This Contract shall be governed by and construed in accordance with the laws of [Jurisdiction].
+
+IN WITNESS WHEREOF, the parties hereto have executed this Contract as of the date first above written.
+
+MineTech Company
+[Signature]                [Signature]
+[Printed Name]              [Printed Name]
+Title: [Title]              [Employee Name]
+Date: [Date]                Date: [Date]

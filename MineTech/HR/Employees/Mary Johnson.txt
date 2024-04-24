@@ -1,0 +1,10 @@
+Name: Mary Johnson
+Position: Geologist
+Birthday: March 15, 1990
+Employee ID: 1002
+Date Hired: April 20, 2019
+Hourly Rate: $22.00
+Social Security Number: ***-**-****
+Address: 
+456 Elm Street
+Rolla, MO 65402

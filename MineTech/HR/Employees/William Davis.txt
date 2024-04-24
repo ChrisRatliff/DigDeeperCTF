@@ -1,0 +1,10 @@
+Name: William Davis
+Position: Equipment Operator
+Birthday: February 20, 1992
+Employee ID: 1005
+Date Hired: May 1, 2022
+Hourly Rate: $25.00
+Social Security Number: ***-**-****
+Address: 
+202 Maple Street
+Rolla, MO 65405

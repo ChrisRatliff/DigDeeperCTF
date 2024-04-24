@@ -1,0 +1,50 @@
+Procedure ID: PROC001
+Procedure Name: Network Troubleshooting
+Description: Troubleshoot network connectivity issues
+Steps:
+1. Check physical connections
+2. Ping gateway
+3. Ping DNS server
+4. etc.
+
+Procedure ID: PROC002
+Procedure Name: Software Installation
+Description: Install software on user machines
+Steps:
+1. Obtain software installer
+2. Run installer
+3. Follow installation wizard
+4. etc.
+
+Procedure ID: PROC003
+Procedure Name: User Account Management
+Description: Manage user accounts, passwords, and permissions
+Steps:
+1. Create new user account
+2. Reset password
+3. Update permissions
+4. etc.
+
+Procedure ID: PROC004
+Procedure Name: Data Backup and Recovery
+Description: Perform regular backups and restore data when needed
+Steps:
+1. Schedule regular backups
+2. Verify backups
+3. Restore data when needed
+4. etc.
+
+Procedure ID: PROC005
+Procedure Name: Security Incident Response
+Description: Respond to security incidents and breaches
+Steps:
+1. Identify and contain breach
+2. Investigate impact
+3. Notify stakeholders
+4. etc.
+
+Procedure ID: PROC006
+Procedure Name: Hardware Maintenance
+Description: Perform maintenance on hardware equipment
+Steps:
+1. Clean dust from compon
