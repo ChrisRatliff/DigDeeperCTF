@@ -1,5 +1,5 @@
 # DigDeeperCTF
-Situation: You are a penetration tester who has been hired to breach the security of MineTech, a mining company out of Rolla, Missouri. After gaining access to the network, you are to find the employee ID of Joe Miner, a mining engineer working for the company and submit the ID. 
+Situation: You are a penetration tester who has been hired to breach the security of MineTech, a mining company out of Rolla, Missouri. After gaining access to the network, you are to find the employee file of Joe Miner, a mining engineer working for the company and submit the flag. 
 Objective:
 
 Find the flag hidden within the stolen data after breaching the mining company's security.
