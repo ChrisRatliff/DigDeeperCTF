@@ -1,5 +1,9 @@
 # DigDeeperCTF
+
+Description: This is a very simple, beginner-friendly Capture the Flag exercise designed to introduce beginners in IT and Cybersecurity to Linux commands and Kali Linux tools. 
+
 Situation: You are a penetration tester who has been hired to breach the security of MineTech, a mining company out of Rolla, Missouri. After gaining access to the network, you are to find the employee file of Joe Miner, a mining engineer working for the company and submit the flag. 
+
 Objective:
 
 Find the flag hidden within the stolen data after breaching MineTech's security.
