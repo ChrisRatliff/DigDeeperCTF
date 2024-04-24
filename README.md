@@ -1,4 +1,5 @@
 # DigDeeperCTF
+Situation: You are a penetration tester who has been hired to breach the security of MineTech, a mining company out of Rolla, Missouri. After gaining access to the network, you are to find the employee ID of Joe Miner, a mining engineer working for the company and submit the ID. 
 Objective:
 
 Find the flag hidden within the stolen data after breaching the mining company's security.
@@ -37,18 +38,6 @@ bash
 
 cd DigDeeperCTF
 
-Run the Python Script:
-
-Run the Python script to simulate the data breach:
-
-python DigDeeperCTF.py
-
-Analyze the Output:
-
-The script will simulate a successful breach and display the stolen data.
-
-Examine the stolen data to find the flag. The flag format is typically MineFlag{flag_here}.
-
 Search for the Flag:
 
 Use text search or analysis tools to find the flag within the stolen data.
@@ -57,9 +46,9 @@ You can use commands like grep or cat in the terminal to search through the outp
 
 Submit the Flag:
 
-Once you find the flag, submit it to the CTF platform to verify completion of the challenge.
+Run the Python script to check your input:
 
-The flag should be submitted in the format MineFlag{flag_here}.
+python DigDeeperCTF.py
 
 Check the Flag:
 After submitting the flag, check if it's correct.
