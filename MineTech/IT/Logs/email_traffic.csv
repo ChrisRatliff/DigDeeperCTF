@@ -1,0 +1,23 @@
+Sender,Receiver,Time Sent,Subject,Message
+john.smith@minetech.com,mary.johnson@minetech.com,5/1/2024 8:15,Project Update,Please find the latest updates on the drilling project attached.
+mary.johnson@minetech.com,john.smith@minetech.com,5/1/2024 8:45,Re: Project Update,"Thanks John, reviewing now."
+michael.williams@minetech.com,jennifer.brown@minetech.com,5/1/2024 9:00,Equipment Inspection,The conveyor belt needs an inspection today.
+jennifer.brown@minetech.com,michael.williams@minetech.com,5/1/2024 9:30,Re: Equipment Inspection,"On it, will send a report by end of day."
+william.davis@minetech.com,elizabeth.miller@minetech.com,5/1/2024 10:00,Invoice Submission,Please process the attached invoices.
+elizabeth.miller@minetech.com,william.davis@minetech.com,5/1/2024 10:20,Re: Invoice Submission,"Invoices received, processing now."
+david.wilson@minetech.com,patricia.moore@minetech.com,5/1/2024 11:00,Meeting Schedule,Can you schedule a meeting for the safety review next week?
+patricia.moore@minetech.com,david.wilson@minetech.com,5/1/2024 11:15,Re: Meeting Schedule,Meeting scheduled for next Monday at 10 AM.
+richard.taylor@minetech.com,joe.miner@minetech.com,5/1/2024 12:00,Site Visit Report,Attached is the report from yesterday's site visit.
+joe.miner@minetech.com,richard.taylor@minetech.com,5/1/2024 12:30,Re: Site Visit Report,"Thanks Richard, looks good. Forwarding to management."
+john.smith@minetech.com,mary.johnson@minetech.com,5/1/2024 13:00,Lunch Plans,Do you want to grab lunch today?
+mary.johnson@minetech.com,john.smith@minetech.com,5/1/2024 13:15,Re: Lunch Plans,"Sure, how about 12:30 at the usual place?"
+patricia.moore@minetech.com,michael.williams@minetech.com,5/1/2024 13:23,Employee File Password,"Michael, Can you provide me with the password for the employee file folder? I appear to be locked out. "
+michael.williams@minetech.com,patricia.moore@minetech.com,5/1/2024 13:46,Re: Employee File Password,"Sure, the password is ""MinersDigDeeper24"""
+michael.williams@minetech.com,jennifer.brown@minetech.com,5/1/2024 14:00,Weekly Report,Can you send me the weekly maintenance report?
+jennifer.brown@minetech.com,michael.williams@minetech.com,5/1/2024 14:30,Re: Weekly Report,Just sent it to your inbox.
+william.davis@minetech.com,elizabeth.miller@minetech.com,5/1/2024 15:00,Expense Approval,Need approval for the attached expenses.
+elizabeth.miller@minetech.com,william.davis@minetech.com,5/1/2024 15:20,Re: Expense Approval,Approved. Will process them today.
+david.wilson@minetech.com,patricia.moore@minetech.com,5/1/2024 16:00,Document Request,Can you send me the latest safety protocols?
+patricia.moore@minetech.com,david.wilson@minetech.com,5/1/2024 16:15,Re: Document Request,Attached are the latest safety protocols.
+richard.taylor@minetech.com,joe.miner@minetech.com,5/1/2024 17:00,End of Day Report,Attached is the end of day report.
+joe.miner@minetech.com,richard.taylor@minetech.com,5/1/2024 17:15,Re: End of Day Report,"Received, thanks Richard."

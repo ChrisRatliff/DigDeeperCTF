@@ -1,0 +1,12 @@
+| Incident ID | Date       | Time     | Priority | Category       | Description                        | Status       | Assigned To  | 
+|-------------|------------|----------|----------|----------------|------------------------------------|--------------|--------------|
+| INC001      | 2024-04-01 | 10:00 AM | High     | Network        | Network outage                     | In Progress  | IT Team      |
+| INC002      | 2024-04-02 | 2:30 PM  | Medium   | Software       | Email server down                  | Pending      | IT Team      |
+| INC003      | 2024-04-03 | 9:15 AM  | Low      | Hardware       | Printer malfunction                | Resolved     | John Doe     |
+| INC004      | 2024-04-04 | 11:45 AM | High     | Security       | Virus detected on server           | In Progress  | IT Team      |
+| INC005      | 2024-04-05 | 3:20 PM  | High     | Hardware       | Server hardware failure            | Pending      | IT Team      |
+| INC006      | 2024-04-06 | 1:00 PM  | Low      | Software       | Installation of new software       | Resolved     | Jane Smith   |
+| INC007      | 2024-04-07 | 10:45 AM | Medium   | Network        | Slow internet connection           | Resolved     | IT Team      |
+| INC008      | 2024-04-08 | 4:50 PM  | High     | Hardware       | Laptop not booting                 | Pending      | IT Team      |
+| INC009      | 2024-04-09 | 12:30 PM | Medium   | Software       | Application crash                  | Resolved     | IT Team      |
+| INC010      | 2024-04-10 | 9:00 AM  | High     | Security       | Data breach investigation          | In Progress  | IT Team      |
